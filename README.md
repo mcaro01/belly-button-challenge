@@ -55,7 +55,7 @@ Use otu_labels for the text values.
 ![image](https://github.com/mcaro01/belly-button-challenge/assets/125619215/3761e57e-f72c-45ec-8560-bd635713a5a0)
 
 
-##  Advanced Challenge Assignment (Optional with no extra points earning)
+##  Advanced Challenge Assignment 
 
 The following task is advanced and therefore optional.
 
@@ -68,35 +68,13 @@ Update the chart whenever a new sample is selected.
 ![image](https://github.com/mcaro01/belly-button-challenge/assets/125619215/9362b931-8ee1-4aa7-95f0-9ddf22b3c99a)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## File Organization and Structure
-
 
 Located in the parent directory are three folders and the index.html file.
 The Resources folder contains the ["samples.json'] file as a reference.
 The assets folder contains a css folder which houses the styles.css file used for customization of the dashboard.
 The static folder contains the two javascript files ["app.js"] and ["bonus.js'} that were used to build the dashboard.
+
+
+## Note
+Some codes are sourced from a forum such as Stack Overflow and sort assistance from support staff such as TA's. 
