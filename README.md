@@ -77,4 +77,4 @@ The static folder contains the two javascript files ["app.js"] and ["bonus.js'} 
 
 
 ## Note
-Some codes are sourced from a forum such as Stack Overflow and sort assistance from support staff such as TA's. 
+Some codes are sourced from a forum such as Stack Overflow,class activities and sort assistance from support staff such as TA's. 
